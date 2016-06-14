@@ -57,15 +57,15 @@ if msg.text == "Slm" then
 	return "سلام"
 end
 if msg.text == "بای" then
-	return "اودافظ"
+	return "خدافظ , خوش اومدی بازم سر بزن"
 end
 if msg.text == "خدافظ" then
 	return "Bye Bye"
 end
-if msg.text == "Mr Ahs" then
+if msg.text == "persianfa" then
 	return "چیکار داری بابامو؟"
 end
-if msg.text == "@Mr_Ah_s" then
+if msg.text == "@persianfa" then
 	return "چیکار داری بابامو؟"
 end
 end
@@ -83,8 +83,8 @@ return {
 		"^[Bb]ye$",
 		"^?$",
 		"^[Ss]alam$",
-		"^@Mr_Ah_S$",
-		"^Mr Ahs$",
+		"^@persianfa$",
+		"^persianfa$",
 		"^خدافظ$",
 		"^بای$",
 		"^[Ss]lm$",
