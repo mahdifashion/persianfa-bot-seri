@@ -239,23 +239,22 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {144658773,114934518,94746365},--Sudo users
+    sudo_users = {80882965},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @sina7sk
+    @persianfa
     Manager:
-    @yellowhat
+    @persianfa
     Founder:
-    @amirho3in
+    @oersianfa
     
     Special Thank To:
-    Mehr Pouya
-    Arman
-    IM/-\N
+    MAHDI
+    MAMAD
     Creed Is Dead
     
 ]],
@@ -343,9 +342,8 @@ _________________________________________
 _________________________________________
 _________________________________________
 _________________________________________
-ليست سودوها :@Cia_00_07
-@sina7sk
-@amirho3in
+ليست سودوها :@persianfa
+@Mamadhack
 ]]
   }
   serialize_to_file(config, './data/config.lua')
